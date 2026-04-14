@@ -1,6 +1,6 @@
 Project Title: Real-time Facial Expression & Mood Tracker
 
-Live Link : https://malarkoditt.github.io/AI-Career-Guidance/
+Live Link : https://malarkoditt.github.io/Translating-system/
 
 College: VSB Engineering College, Karur
 
